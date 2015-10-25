@@ -1,0 +1,36 @@
+img {
+    margin-top: 300px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+h1, h2 {
+    color: #fff;
+    font-family: 'Arimo', sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: #00A100;
+}
+
+.project-title {
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 400px;
+}
+
+.item {
+    background-color: #CC00CC;
+    display: inline-block;
+    padding: 100px 150px 100px 150px;
+}
+
+i {
+    color: #FFF;
+}
+
+a {
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+}
